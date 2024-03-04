@@ -13,6 +13,7 @@ The application was developed for the module _Object-Oriented Programming_.
         Suggestion: use packing/unpacking/extraction of bits stored in a long
 [Link to original requirements (in romanian)](./Indicatie.png)
 ## Modules
+The following .java files can be found in `src` folder:  
 - `Main.java` which is to be run;  
   - prompts in console the welcoming messages
   - manages the input-validity (i.e. you can "play" only certain numbers)
